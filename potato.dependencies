@@ -8,14 +8,15 @@
     "target_path": "device/oppo/common"
   },
   {
+    "remote": "github",
     "repository": "TheMuppets/vendor_oneplus",
     "target_path": "vendor/oneplus",
     "branch": "lineage-15.1"
   },
   {
+    "remote": "github",
     "repository": "Singularity-Kernel/Singularity",
-    "target_path": "kernel/oneplus/msm8998"
+    "target_path": "kernel/oneplus/msm8998",
     "branch": "unified"
   }
-
 ]
