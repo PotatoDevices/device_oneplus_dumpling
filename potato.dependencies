@@ -15,9 +15,9 @@
   },
   {
     "remote": "github",
-    "repository": "Singularity-Kernel/Singularity",
+    "repository": "nathanchance/op5",
     "target_path": "kernel/oneplus/msm8998",
-    "branch": "unified"
+    "branch": "8.1.0-unified"
   }
 
 ]

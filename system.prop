@@ -5,8 +5,5 @@ persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
 
-#LCD Densityy
-ro.sf.lcd_density=480
-
 # Hack for Youtube
 sys.display-size=3840x2160
