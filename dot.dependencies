@@ -1,6 +1,7 @@
 [
   {
-    "repository": "android_device_oneplus_msm8998-common",
+    "repository": "dotOS-Devices/android_device_oneplus_cheeseburger",
     "target_path": "device/oneplus/msm8998-common"
+    "branch": "dot11"
   }
 ]
