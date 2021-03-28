@@ -21,6 +21,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from dumpling device
 $(call inherit-product, device/oneplus/dumpling/device.mk)
 
+# Official
+DOT_OFFICIAL := true
+
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
